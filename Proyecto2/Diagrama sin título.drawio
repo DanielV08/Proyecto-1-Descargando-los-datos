@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T00:36:07.064Z" agent="5.0 (Windows)" version="20.5.3" etag="aVn115LjDRG31IdysLTV" type="github"><diagram id="PfjCPQCc4nOzpeo12ZXA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-09T00:46:35.291Z" agent="5.0 (Windows)" etag="ltT862oBqZQySAPRBQpH" version="20.5.3" type="github">
+  <diagram id="PfjCPQCc4nOzpeo12ZXA" name="Página-1">
+    <mxGraphModel dx="1483" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Yrwjv47Zyzq1nRAuUFWf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="170" width="470" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="Yrwjv47Zyzq1nRAuUFWf-2" value="Grafica de promedio anual de tasa de desocupacion por entidad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="86" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Yrwjv47Zyzq1nRAuUFWf-3" value="Grafica de promedio anual de tasa de desocupacion por entidad" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="186" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yrwjv47Zyzq1nRAuUFWf-4" value="Gráfico barras de tasa de desocupación por año (Todas las entidades)&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="286" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yrwjv47Zyzq1nRAuUFWf-5" value="Gráfico barras de delitos ocurridos por año (Todas las entidades)&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="286" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yrwjv47Zyzq1nRAuUFWf-6" value="Graficas de entidades con mayor desocupacion promedio" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="210" y="370" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Yrwjv47Zyzq1nRAuUFWf-9" value="&lt;span&gt; ¿Como afecta la tasa de desocupación en un estado?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yrwjv47Zyzq1nRAuUFWf-11" value="Tasa de desocupacion &lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yrwjv47Zyzq1nRAuUFWf-13" value="Delitos ocurridos&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yrwjv47Zyzq1nRAuUFWf-14" value="x" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Yrwjv47Zyzq1nRAuUFWf-15" value="Comparativa" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="500" width="350" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
